@@ -1,0 +1,1 @@
+printf("le nombre des lettres est :%d",j);
